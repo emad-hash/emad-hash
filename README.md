@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **Web developer**
 
-- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **front end / back end**
 
