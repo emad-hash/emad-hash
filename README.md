@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emad AlHashash</h1>
-<h3 align="center">Full stack web developer</h3>
+<h3 align="center">Full stack web developer and QA Automation</h3>
 
 - 🔭 I’m currently working on **Web developer**
 
 
 - 💬 Ask me about **front end / back end**
 
-- 📫 How to reach me **emadhashash76@gmail.com // 00962778084911**
+- 📫 How to reach me **emadhashash76@gmail.com // 00962781151079**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
